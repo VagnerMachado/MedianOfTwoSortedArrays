@@ -78,4 +78,8 @@ public class Main {
 		else
 			return low.pop();
 	}
+	public static int test1()
+	{
+		return 1;
+	}
 }
