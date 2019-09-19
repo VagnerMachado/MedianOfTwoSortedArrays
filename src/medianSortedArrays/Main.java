@@ -1,4 +1,4 @@
-package medianSortedArrays;
+ package medianSortedArrays;
 
 import java.util.Stack;
 
