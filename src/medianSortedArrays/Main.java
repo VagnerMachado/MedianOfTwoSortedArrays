@@ -14,7 +14,7 @@ public class Main {
 
 	/**There are two sorted arrays nums1 and nums2 of size m and n respectively.
 	Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
-	You may assume nums1 and nums2 cannot be both empty.**/
+	You may assume nums1 and nums2 cannot be both empty.**/  
 	public static double findMedian(int [] a, int [] b)
 	{
 		int lowA = 0;
